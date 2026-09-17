@@ -17,7 +17,7 @@ I design and build practical digital products: landing pages, business calculato
 
 - **[Lorevo](https://lorevo.ru)** — production web application for spoken English practice with a voice AI agent, personalization, user accounts, payments, analytics, and operational guardrails.
 - **Lara Yoga** — website system for an expert business: landing campaigns, dynamic schedule, lead forms, a Telegram-fed blog, legal pages, analytics, and deployment on a Russian VPS. → **[case study](https://github.com/nvlov/larayoga-ru)** · **[live site](https://larayoga.ru)**
-- **BuildQuote Local** — Windows business calculator based on real XLSX price data with transparent formulas, validation, safe price-list updates, automated tests, and client-ready delivery.
+- **[BuildQuote Local](https://github.com/nvlov/buildquote-local)** — local Windows business calculator with editable XLSX data, transparent formulas, validated price-list updates, automated tests, and a privacy-safe public demo.
 - **Freelance Ops Factory** — a human-in-the-loop operating system for the lead-to-paid freelance workflow: qualification, presales, delivery, acceptance, and payment checkpoints.
 
 More public code: **[all repositories](https://github.com/nvlov?tab=repositories)**.
