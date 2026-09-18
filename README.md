@@ -10,12 +10,13 @@ I design and build practical digital products: landing pages, business calculato
 
 - **Landing pages and small business websites** — ясный оффер, адаптивный интерфейс, формы заявок, аналитика и deployment.
 - **Business calculators and interactive tools** — проверяемая логика, редактируемые данные, экспорт и понятный пользовательский путь.
+- **Voice AI agents** — разговор в реальном времени с перебиванием, расшифровкой и памятью между сеансами; эксплуатационный контур и контроль стоимости разговора.
 - **AI workflows and MVPs** — базы знаний, AI-ассистенты, персонализация, роли и контролируемая автоматизация.
 - **Telegram solutions** — боты, уведомления, интеграции и read-only monitoring.
 
 ## Selected work
 
-- **[Lorevo](https://lorevo.ru)** — production web application for spoken English practice with a voice AI agent, personalization, user accounts, payments, analytics, and operational guardrails.
+- **Lorevo** — production web application for spoken English practice with a **real-time voice AI agent**: the student talks, the tutor answers by voice and can be interrupted. Two-region deployment that keeps personal data in Russia as the law requires, a protocol bridge that survived a migration between two generations of voice API, a live-lesson canary, deployment gates, payments and analytics. → **[case study](https://github.com/nvlov/lorevo-ru)** · **[live product](https://lorevo.ru)**
 - **Lara Yoga** — website system for an expert business: landing campaigns, dynamic schedule, lead forms, a Telegram-fed blog, legal pages, analytics, and deployment on a Russian VPS. → **[case study](https://github.com/nvlov/larayoga-ru)** · **[live site](https://larayoga.ru)**
 - **[BuildQuote Local](https://github.com/nvlov/buildquote-local)** — local Windows business calculator with editable XLSX data, transparent formulas, validated price-list updates, automated tests, and a privacy-safe public demo.
 - **Freelance Ops Factory** — a human-in-the-loop operating system for the lead-to-paid freelance workflow: qualification, presales, delivery, acceptance, and payment checkpoints.
@@ -29,7 +30,7 @@ More public code: **[all repositories](https://github.com/nvlov?tab=repositories
 3. Build in short, verifiable iterations with tests and demonstrations.
 4. Deploy or deliver the product together with documentation and a clear handoff.
 
-My usual stack includes **Python, FastAPI, PostgreSQL, Telegram integrations, AI APIs, automated testing, and web deployment**.
+My usual stack includes **Python, FastAPI, PostgreSQL, real-time WebSocket services, Docker and nginx, Telegram integrations, AI APIs, automated testing, and web deployment**.
 
 ## Professional background
 
